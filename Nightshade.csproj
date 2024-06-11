@@ -4,7 +4,7 @@
 
 	<PropertyGroup>
 		<RootNamespace>Nightshade</RootNamespace>
-		<TargetFramework>net6.0</TargetFramework>
+		<TargetFramework>net8.0</TargetFramework>
 		<PlatformTarget>AnyCPU</PlatformTarget>
 		<LangVersion>latest</LangVersion>
 	</PropertyGroup>

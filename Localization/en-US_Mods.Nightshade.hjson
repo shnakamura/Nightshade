@@ -1,0 +1,23 @@
+Biomes: {
+	MoonlitMarsh: {
+		TownNPCDialogueName: the Moonlit Marsh
+		DisplayName: Moonlit Marsh
+	}
+
+	MoonlitMarshSurface: {
+		DisplayName: Moonlit Marsh Surface
+		TownNPCDialogueName: the Moonlit Marsh Surface
+	}
+
+	MoonlitMarshUnderground: {
+		DisplayName: Moonlit Marsh Underground
+		TownNPCDialogueName: the Moonlit Marsh Underground
+	}
+}
+
+Items: {
+	Depthstone: {
+		DisplayName: Depthstone
+		Tooltip: ""
+	}
+}
